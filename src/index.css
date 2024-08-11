@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#Circle{
+    rotate: 350.4deg;
+    /* background-color: yellow; */
+    /* transform: rotateX('angle'); */
+}
